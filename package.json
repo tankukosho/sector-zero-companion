@@ -1,7 +1,7 @@
 {
   "name": "sector-zero-companion",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": true,
-  "scripts": { "test": "node integration.test.cjs" },
+  "scripts": { "test": "node integration.test.cjs && node sorting.test.cjs" },
   "devDependencies": { "playwright": "1.62.1" }
 }
