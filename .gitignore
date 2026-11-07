@@ -1,0 +1,11 @@
+node_modules/
+.playwright/
+test-results/
+.env
+.env.*
+private/
+imports/
+*backup*.json
+sector-zero-work-orders-*.json
+original-work-orders.json
+*_Private_Import.json

@@ -1,0 +1,51 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> sector-zero-companion@0.4.0-preview test
+> node core.test.cjs && node integration.test.cjs && node sorting.test.cjs && node v04.test.cjs
+
+PASS: branching ancestry, missing/circular parents, interval union/partial/unknown coverage and historical-branch isolation; inputs never mutated.
+PASS: Idle Ascent reaches 350 m in 91s / 178 synthetic taps; upgrade costs, save validation and capped suspension catch-up.
+PASS: real v0.1 service worker upgrades to current release, offline launch works, existing record is byte-equivalent as JSON, DB stays version 1.
+PASS: lineage, draft/completed reports, required outcome, dashboard awaiting-test logic, original metadata and checklist preservation.
+PASS: lineage excludes later builds, referenced parent deletion is blocked, report edits update the same report.
+PASS: v0.2 backup export/import round trip and persistence across reload.
+PASS: original v0.1 backups restore with all legacy fields; cancelled drafts create no records.
+PASS: failed IndexedDB writes preserve disk and in-memory records.
+PASS: 390px Android layout, no uncaught runtime errors, offline reload.
+PASS: invalid stored state is never replaced or silently reset.
+All integration checks passed. Synthetic data only; no private checklist used.
+PASS: v0.2-to-v0.4 PWA upgrade and offline load; exact stored-state preservation including reports, lineage and metadata.
+PASS: numeric dorder/order, numeric strings, negative/zero values, missing/invalid values and stable imported-position ties.
+PASS: all 81 sorting/search/status/section combinations without storage writes.
+PASS: Home next-five selection ignores filters; task links and sort-preference reload persistence work.
+PASS: full backup round trip, original-order checklist export, unchanged statuses, and empty bridge diff.
+PASS: v0.1 and v0.2 backup formats remain compatible.
+PASS: invalid or blocked preference storage is safe; 390px mobile layout fits.
+PASS: empty/completed checklists, offline reload and no runtime errors.
+All v0.4 sorting and compatibility checks passed.
+PASS: exact v0.3 state survives offline upgrade with no startup writes, no inferred active build/classification, and four tabs.
+PASS: active selection, branch-correct dashboard/terminal, classification filters, branching tree, missing parents and cycle prevention.
+PASS: explicit classification/coverage edits, invalid coverage rejection, and unchanged status/missing-parent reference.
+PASS: browser Back closes build/task/report routes in order; rejected discard restores unsaved forms without loops; task filters survive return.
+PASS: optional assessments edit/save, long form with shortened viewport, all original report/unknown fields and build approval preserved.
+PASS: fourteen Shaft bands, unique overlapping coverage, unrelated historical isolation, band reports/notes and nested Back.
+PASS: secret activation, original machinery canvas, manual power/automation unlock, game saving/reload, Exit/Back and exact development-data isolation.
+PASS: v0.4 backup round trip and reload/offline persistence retain all tasks, baseline, builds, playtests, notes, lineage, metadata and prior activity.
+PASS: root Home allows normal browser exit; no runtime errors. Real Android gesture/IME verification remains a human checklist item.
+
+ADDITIONAL TOUCH / KEYBOARD VERIFICATION
+PASS: exact v0.3 state survives offline upgrade with no startup writes, no inferred active build/classification, and four tabs.
+PASS: active selection, branch-correct dashboard/terminal, classification filters, branching tree, missing parents and cycle prevention.
+PASS: explicit classification/coverage edits, invalid coverage rejection, and unchanged status/missing-parent reference.
+PASS: browser Back closes build/task/report routes in order; rejected discard restores unsaved forms without loops; task filters survive return.
+PASS: optional assessments edit/save, long form with shortened viewport, all original report/unknown fields and build approval preserved.
+PASS: fourteen Shaft bands, unique overlapping coverage, unrelated historical isolation, band reports/notes and nested Back.
+PASS: secret activation, original machinery canvas, manual power/automation unlock, game saving/reload, Exit/Back and exact development-data isolation.
+PASS: v0.4 backup round trip and reload/offline persistence retain all tasks, baseline, builds, playtests, notes, lineage, metadata and prior activity.
+PASS: root Home allows normal browser exit; no runtime errors. Emulated touch taps and keyboard input passed. Real Android gesture/IME verification remains a human checklist item.
+
+FINAL STATIC / PRIVACY GUARDS
+PASS: empty public seed and synthetic-only test fixtures.
+PASS: branching ancestry, missing/circular parents, interval union/partial/unknown coverage and historical-branch isolation; inputs never mutated.
+PASS: Idle Ascent reaches 350 m in 91s / 178 synthetic taps; upgrade costs, save validation and capped suspension catch-up.
+PASS: JavaScript syntax, git diff whitespace, and byte-identical public seed/styles/manifest/icons against deployed baseline.
